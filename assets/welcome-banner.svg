@@ -1,0 +1,22 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.5" stop-color="#1D4ED8"/>
+      <stop offset="1" stop-color="#06B6D4"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <circle cx="1080" cy="70" r="42" fill="white" fill-opacity="0.12"/>
+  <circle cx="1130" cy="120" r="18" fill="white" fill-opacity="0.18"/>
+  <circle cx="90" cy="255" r="52" fill="white" fill-opacity="0.08"/>
+  <text x="70" y="120" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="700">
+    Welcome to our project
+  </text>
+  <text x="70" y="170" fill="#DBEAFE" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="500">
+    Realised by Marwane OUAHID and Mohamed CHRAIBI
+  </text>
+  <text x="70" y="225" fill="#E0F2FE" font-family="Segoe UI, Arial, sans-serif" font-size="18">
+    K-Means clustering platform built with Streamlit
+  </text>
+</svg>
